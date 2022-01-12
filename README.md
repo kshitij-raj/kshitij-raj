@@ -39,9 +39,6 @@
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
 </div>
 
 <p align="center">
@@ -59,7 +56,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-gray?style=for-the-badge&logo=javascript" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Flask-gray?style=for-the-badge&logo=flask" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Git-gray?style=for-the-badge&logo=git" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/-GitHub-gray?style=for-the-badge&logo=github" />
 
   <br/>
   <br/>
