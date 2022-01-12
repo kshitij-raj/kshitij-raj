@@ -32,14 +32,14 @@
 </p>
 </div>
 
-<div>
 <br />
 <br />
 <br />
 <br />
 <br />
 <br />
-</div>
+<br />
+<br />
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-gray?style=for-the-badge&logo=Python" />&nbsp;&nbsp;&nbsp;&nbsp;
