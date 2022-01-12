@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />&nbsp;&nbsp;&nbsp;&nbsp;
 
   <br/>
   <br/>
