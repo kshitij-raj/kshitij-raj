@@ -41,7 +41,6 @@
 <br />
 <br />
 <br />
-
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-gray?style=for-the-badge&logo=Python" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Tensorflow-gray?style=for-the-badge&logo=Tensorflow" />&nbsp;&nbsp;&nbsp;&nbsp;
