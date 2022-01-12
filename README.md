@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/-keras-gray?style=for-the-badge&logo=keras" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Scikit%20Learn-gray?style=for-the-badge&logo=Scikit%20Learn" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Java-gray?style=for-the-badge&logo=Java" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-MySQL-gray?style=for-the-badge&logo=MySQL" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-MySQL-gray?style=for-the-badge&logo=MySQL" />
   
   <br/>
 
@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
 
   <br/>
   <br/>
