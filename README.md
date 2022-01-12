@@ -32,6 +32,7 @@
 </p>
 </div>
 
+<div>
 <br />
 <br />
 <br />
@@ -41,6 +42,8 @@
 <br />
 <br />
 <br />
+</div>
+
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-gray?style=for-the-badge&logo=Python" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Tensorflow-gray?style=for-the-badge&logo=Tensorflow" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -53,9 +56,9 @@
   <br/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-JavaScript-gray?style=for-the-badge&logo=javascript" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Flask-gray?style=for-the-badge&logo=flask" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Git-gray?style=for-the-badge&logo=git" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
 
   <br/>
