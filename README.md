@@ -20,13 +20,6 @@
   <a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=kshitij-raj.kshitij-raj" alt="Vistor Badge"></a>
   </p>
 </div>
-
-<div>
-  <img align="middle" alt="GIF" src=".github\Images\Profile.gif", width="800" height="300"/>
-</div>
-
-<br />
-<br />
 <div>
 <br />
 <br />
