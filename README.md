@@ -22,7 +22,7 @@
 </div>
 
 <div>
-  <img align="middle" alt="GIF" src=".github\Images\Profile.gif"/>
+  <img align="middle" alt="GIF" src=".github\Images\Profile.gif", width="500" height="200"/>
 </div>
 
 <br />
