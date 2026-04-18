@@ -18,7 +18,6 @@
 * 🧠 Passionate about building **scalable data systems & intelligent solutions**
 * 🚀 Currently exploring **LLMs, AI systems & modern data stack**
 
----
 
 ## 🌐 Connect With Me
 
