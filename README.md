@@ -36,11 +36,6 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=kshitij-raj.kshitij-raj" />
-</p>
-
 ---
 
 ## 📊 GitHub Stats
